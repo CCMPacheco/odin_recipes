@@ -1,0 +1,29 @@
+body {
+  background-color: #e5e7e9;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  text-align: center;
+  font-size: 46px;
+  color: rgb(37, 27, 131);
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.description {
+  padding-top: 10px;
+  color: rgb(37, 27, 131);
+}
+
+.text {
+  font-style: italic;
+}
+
+li {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
